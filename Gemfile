@@ -72,3 +72,4 @@ gem "bootstrap"
 
 gem 'sassc-rails'
 
+gem 'bootstrap-sass-extras'
